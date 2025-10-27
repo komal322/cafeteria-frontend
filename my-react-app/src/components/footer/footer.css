@@ -1,0 +1,17 @@
+.footer-top {
+  color: white !important;       /* Makes text white */
+  margin-top: 0 !important;      /* Removes space above */
+  padding-top: 0 !important;     /* Removes any top padding */
+}
+
+.footer-top a {
+  color: white !important;       /* Ensures all icons/links are white */
+  text-decoration: none;
+}
+
+.footer-top a:hover {
+  color: #f1f1f1 !important;     /* Slightly lighter on hover */
+}
+
+
+
