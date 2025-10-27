@@ -1,0 +1,10 @@
+.profile-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: "Poppins", sans-serif;
+}
+
+.profile-welcome {
+  font-weight: 700;
+  color: #212529;
+}

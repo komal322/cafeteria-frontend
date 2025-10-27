@@ -1,0 +1,29 @@
+{
+    "pushpa": "6789",
+    "abcd": "1234",
+    "pushpalatha": "1234",
+    "pushpa@gmail.com": {
+        "firstName": "pushpa",
+        "lastName": "latha",
+        "username": "pushpa",
+        "password": "Latha@1234",
+        "location": "Bengaluru",
+        "contactNumber": "+911234567890"
+    },
+    "tulasiteja.d@gmail.com": {
+        "firstName": "tulasi",
+        "lastName": "teja",
+        "username": "teja",
+        "password": "$2b$12$LmApV/r6xyA4JdhEvkqe..bCRsehoOrbRJwM7KxB6Ytm7O4FQuGCK",
+        "location": "Bengaluru",
+        "contactNumber": "+911234567891"
+    },
+    "kammapushpalatha@gmail.com": {
+        "firstName": "pushpa",
+        "lastName": "latha",
+        "username": "pushpa",
+        "password": "$2b$12$AFZelrC6LVhXEyqcyqlIpOWh/gPStncd18kUKwqVuX9rYj6m3V.ni",
+        "location": "Bengaluru",
+        "contactNumber": "+911234567890"
+    }
+}

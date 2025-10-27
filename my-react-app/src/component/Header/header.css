@@ -1,0 +1,9 @@
+.header-nav .nav-link {
+  text-decoration: none;
+  color: #234; /* your color */
+  font-weight: 600;
+}
+
+.header-nav .nav-link:hover {
+  text-decoration: underline;
+}

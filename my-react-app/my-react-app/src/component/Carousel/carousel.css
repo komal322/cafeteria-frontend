@@ -1,0 +1,33 @@
+.carousel-img {
+  height: 550px;
+  object-fit: cover;
+  filter: blur(4px);
+}
+
+.carousel-caption h2 {
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.6);
+  font-size: 2rem;
+}
+
+.carousel-caption p {
+  color: #f8f9fa;
+  font-size: 1.2rem;
+}
+
+/* Fade-in + slide-up animation */
+.caption-animate {
+  animation: fadeSlideUp 0.5s ease-in-out;
+}
+
+@keyframes fadeSlideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

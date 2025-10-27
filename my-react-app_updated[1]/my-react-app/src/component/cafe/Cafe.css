@@ -1,0 +1,51 @@
+.cafe-page {
+  font-family: "Poppins", sans-serif;
+}
+
+.cafe-heading {
+  color: #5b3921;
+  font-weight: 600;
+}
+
+.btn-cafe {
+  background-color: #b27240;
+  color: white;
+  border: none;
+}
+
+.btn-cafe:hover {
+  background-color: #8a5833;
+}
+
+.btn-outline-cafe {
+  color: #b27240;
+  border: 1px solid #b27240;
+}
+
+.btn-outline-cafe:hover {
+  background-color: #b27240;
+  color: white;
+}
+
+.cafe-card:hover {
+  transform: translateY(-5px);
+  transition: all 0.2s ease-in-out;
+}
+
+.cart-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1050;
+}
+
+.cart-modal {
+  background: white;
+  padding: 1.5rem;
+  border-radius: 10px;
+  width: 90%;
+  max-width: 500px;
+}
