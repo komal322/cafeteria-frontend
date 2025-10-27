@@ -3,7 +3,6 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import logo from '../../assets/images/logo.png';
 import './Navbar.css'
-import { Link } from 'react-router-dom';
 
 
 const Navbar = () => {

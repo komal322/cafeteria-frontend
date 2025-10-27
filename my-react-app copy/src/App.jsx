@@ -6,7 +6,6 @@ import Footer from './component/Footer/footer.jsx'
 import Letstalk from './component/Letstalk/letstalk.jsx'
 import MyCarousel from './component/Carousel/carousel.jsx'
 import Whytoserve from './component/Whytoserve/whytoserve.jsx'
-import Login from './component/Login/login.jsx'
 
 function App() {
     return (
@@ -21,7 +20,6 @@ function App() {
             <Letstalk />
             <Footer />
 
-            <Login />
 
 
         </div>
